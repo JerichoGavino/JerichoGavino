@@ -1,11 +1,23 @@
-👋 Hello, world! I'm an IT with a passion for solving complex problems and creating innovative solutions.
+# Hi there 👋, I'm Jericho Gavino
 
-💻 I have a strong background in **Java**, **JavaScript**, and **Python** programming. I love the logic and structure of coding, and always strive to write elegant and efficient code.
+## About me
+I am Jericho Gavino, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
 
-🌐 In addition to programming, I have knowledge in **HTML** and **CSS**, allowing me to understand both the front-end and back-end perspectives, and create seamless and visually appealing web experiences.
+## Education
+**BS Information Technology**  
+New Era University  
+2015-Present
 
-🔌 My skills extend to **network management**, where I ensure the smooth operation of data communication networks, troubleshoot network issues, and maintain network security.
+## Certifications
+- [NoSQL and DBaaS 101]
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate]
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate]
 
-🛠️ I also have experience in **hardware troubleshooting** and **basic printer troubleshooting**, ensuring that all components of a system are working efficiently and effectively.
+## Skill sets
+**Programming**: Java, Javascript  
+**Databases**: IBM DB2 Cloud  
+**Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
-🚀 I'm always looking for opportunities to grow, learn new technologies, and take on new challenges. Let's connect and build something amazing together!
+## Contact me
+**LinkedIn**: [Jericho Gaviño]  
+**Email**: jigavino@pcl.com.ph
