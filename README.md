@@ -6,7 +6,7 @@ I am Jericho Gavino, with a flair for coding and database management skills. I t
 ## Education
 **BS Information Technology**  
 New Era University  
-2015-Present
+2015-2024
 
 ## Certifications
 - [NoSQL and DBaaS 101]
